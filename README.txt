@@ -22,7 +22,7 @@ How to start (only once):
 Finished videos go into the "finished-videos" folder.
 
 Want all 28 styles, full 3D in Blender and using it from your phone?
-Check out the full version: https://fabricadecenas.netlify.app/en/
+Check out the full version: https://scenefactory.netlify.app/
 
 Scene Factory is an independent product and is not affiliated with Anthropic.
 Claude is a trademark of Anthropic.

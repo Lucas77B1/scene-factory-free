@@ -16,9 +16,9 @@ if (!nome) para('Diga um nome curto. Ex.: node ferramentas/criar.mjs ciclo-da-ag
 const estilo = op.estilo;
 const ESTILO_3D = 'bloquinho3d';
 const estilos = [...fs.readdirSync(ESTILOS).filter((d) => fs.existsSync(path.join(ESTILOS, d, 'index.tsx'))), ESTILO_3D];
-if (!estilo || !estilos.includes(estilo)) para(`The free version's styles are: ${estilos.filter((e) => e !== ESTILO_3D).join(', ')}. The others are in the full version: https://fabricadecenas.netlify.app/en/`);
+if (!estilo || !estilos.includes(estilo)) para(`The free version's styles are: ${estilos.filter((e) => e !== ESTILO_3D).join(', ')}. The others are in the full version: https://scenefactory.netlify.app/`);
 const e3d = estilo === ESTILO_3D;
-if (e3d) para('Full 3D (Blender) is part of the full Scene Factory: https://fabricadecenas.netlify.app/en/');
+if (e3d) para('Full 3D (Blender) is part of the full Scene Factory: https://scenefactory.netlify.app/');
 if (e3d && NA_NUVEM) para('O 3D completo (Blender) só funciona no computador. Aqui na nuvem, escolha um estilo de 3D leve (balao, diorama, feltro ou voxel).');
 const formato = op.formato ?? 'vertical';
 if (!['vertical', 'horizontal', 'quadrado'].includes(formato)) para('O formato é vertical, horizontal ou quadrado.');

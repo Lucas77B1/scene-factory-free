@@ -19,6 +19,6 @@ for (const id of fs.readdirSync(ESTILOS).sort()) {
   linhas.push(`| ${id} | ${nome} | ${campo('Tipo')} | ${campo('Cara')} | ${campo('Bom pra')} |`);
   n++;
 }
-linhas.push('', '## In the full version', '', 'These styles are part of the full Scene Factory (https://fabricadecenas.netlify.app/en/): Stickers, Watercolor, Azulejo Tiles, Balloon, Block 3D, Charcoal, Constellation, Cordel Woodcut, Travel Journal, Diorama, Felt, Comic Book, Crayon, Hologram, Infographic, Old Newspaper, Storybook Pencil, Chalkboard, Minimal, Ink Brush, Pixel, Pop Art, Retro Poster, Paper Cutout, Synthwave.');
+linhas.push('', '## In the full version', '', 'These styles are part of the full Scene Factory (https://scenefactory.netlify.app/): Stickers, Watercolor, Azulejo Tiles, Balloon, Block 3D, Charcoal, Constellation, Cordel Woodcut, Travel Journal, Diorama, Felt, Comic Book, Crayon, Hologram, Infographic, Old Newspaper, Storybook Pencil, Chalkboard, Minimal, Ink Brush, Pixel, Pop Art, Retro Poster, Paper Cutout, Synthwave.');
 fs.writeFileSync(path.join(ESTILOS, 'CATALOGO.md'), linhas.join('\n') + '\n');
 ok(`${n} estilo(s) no catálogo.`);

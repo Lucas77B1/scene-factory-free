@@ -34,7 +34,7 @@ The video comes out as an MP4, vertical (Reels, Shorts, TikTok) or horizontal (Y
 | ElevenLabs voice guide | — | ✓ |
 | WhatsApp support | — | ✓ |
 
-👉 **[https://fabricadecenas.netlify.app/en/](https://fabricadecenas.netlify.app/en/)**
+👉 **[https://scenefactory.netlify.app/](https://scenefactory.netlify.app/)**
 
 ---
 Scene Factory is an independent product and is not affiliated with Anthropic. Claude is a trademark of Anthropic.

@@ -36,6 +36,6 @@ for (const d of ['projects', 'finished-videos', 'public/projetos']) fs.mkdirSync
 atualizarCatalogo();
 
 // 4. o Blender é opcional: só o 3D completo usa
-const sobre3D = `Free version: 3 styles (caderno, neon and voxel). All 28 styles, full 3D and updates are in the full version: https://fabricadecenas.netlify.app/en/`;
+const sobre3D = `Free version: 3 styles (caderno, neon and voxel). All 28 styles, full 3D and updates are in the full version: https://scenefactory.netlify.app/`;
 ok(`Fábrica pronta${NA_NUVEM ? ' (na nuvem)' : ''}. Já pode pedir um vídeo.`);
 console.log(`  ${sobre3D}`);
