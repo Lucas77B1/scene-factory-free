@@ -1,0 +1,522 @@
+{
+ "origem": "leitura",
+ "total": 39.056,
+ "frases": [
+  {
+   "texto": "Look up on a sunny day: why is the sky blue, and not white?",
+   "ini": 0.4,
+   "fim": 4.876,
+   "palavras": [
+    {
+     "p": "Look",
+     "ini": 0.4,
+     "fim": 0.785
+    },
+    {
+     "p": "up",
+     "ini": 0.785,
+     "fim": 1.029
+    },
+    {
+     "p": "on",
+     "ini": 1.029,
+     "fim": 1.274
+    },
+    {
+     "p": "a",
+     "ini": 1.274,
+     "fim": 1.449
+    },
+    {
+     "p": "sunny",
+     "ini": 1.449,
+     "fim": 1.904
+    },
+    {
+     "p": "day:",
+     "ini": 1.904,
+     "fim": 2.218
+    },
+    {
+     "p": "why",
+     "ini": 2.218,
+     "fim": 2.533
+    },
+    {
+     "p": "is",
+     "ini": 2.533,
+     "fim": 2.778
+    },
+    {
+     "p": "the",
+     "ini": 2.778,
+     "fim": 3.093
+    },
+    {
+     "p": "sky",
+     "ini": 3.093,
+     "fim": 3.407
+    },
+    {
+     "p": "blue,",
+     "ini": 3.407,
+     "fim": 3.792
+    },
+    {
+     "p": "and",
+     "ini": 3.792,
+     "fim": 4.107
+    },
+    {
+     "p": "not",
+     "ini": 4.107,
+     "fim": 4.421
+    },
+    {
+     "p": "white?",
+     "ini": 4.421,
+     "fim": 4.876
+    }
+   ]
+  },
+  {
+   "texto": "Sunlight looks white, but it carries all the colors together.",
+   "ini": 5.326,
+   "fim": 9.526,
+   "palavras": [
+    {
+     "p": "Sunlight",
+     "ini": 5.326,
+     "fim": 5.94
+    },
+    {
+     "p": "looks",
+     "ini": 5.94,
+     "fim": 6.36
+    },
+    {
+     "p": "white,",
+     "ini": 6.36,
+     "fim": 6.78
+    },
+    {
+     "p": "but",
+     "ini": 6.78,
+     "fim": 7.071
+    },
+    {
+     "p": "it",
+     "ini": 7.071,
+     "fim": 7.297
+    },
+    {
+     "p": "carries",
+     "ini": 7.297,
+     "fim": 7.846
+    },
+    {
+     "p": "all",
+     "ini": 7.846,
+     "fim": 8.137
+    },
+    {
+     "p": "the",
+     "ini": 8.137,
+     "fim": 8.428
+    },
+    {
+     "p": "colors",
+     "ini": 8.428,
+     "fim": 8.912
+    },
+    {
+     "p": "together.",
+     "ini": 8.912,
+     "fim": 9.526
+    }
+   ]
+  },
+  {
+   "texto": "When it enters the air, it hits molecules too small to see.",
+   "ini": 9.976,
+   "fim": 14.288,
+   "palavras": [
+    {
+     "p": "When",
+     "ini": 9.976,
+     "fim": 10.347
+    },
+    {
+     "p": "it",
+     "ini": 10.347,
+     "fim": 10.582
+    },
+    {
+     "p": "enters",
+     "ini": 10.582,
+     "fim": 11.088
+    },
+    {
+     "p": "the",
+     "ini": 11.088,
+     "fim": 11.391
+    },
+    {
+     "p": "air,",
+     "ini": 11.391,
+     "fim": 11.694
+    },
+    {
+     "p": "it",
+     "ini": 11.694,
+     "fim": 11.93
+    },
+    {
+     "p": "hits",
+     "ini": 11.93,
+     "fim": 12.3
+    },
+    {
+     "p": "molecules",
+     "ini": 12.3,
+     "fim": 13.008
+    },
+    {
+     "p": "too",
+     "ini": 13.008,
+     "fim": 13.311
+    },
+    {
+     "p": "small",
+     "ini": 13.311,
+     "fim": 13.749
+    },
+    {
+     "p": "to",
+     "ini": 13.749,
+     "fim": 13.985
+    },
+    {
+     "p": "see.",
+     "ini": 13.985,
+     "fim": 14.288
+    }
+   ]
+  },
+  {
+   "texto": "And blue is the color that scatters the most, in every direction.",
+   "ini": 14.738,
+   "fim": 19.362,
+   "palavras": [
+    {
+     "p": "And",
+     "ini": 14.738,
+     "fim": 15.035
+    },
+    {
+     "p": "blue",
+     "ini": 15.035,
+     "fim": 15.399
+    },
+    {
+     "p": "is",
+     "ini": 15.399,
+     "fim": 15.63
+    },
+    {
+     "p": "the",
+     "ini": 15.63,
+     "fim": 15.927
+    },
+    {
+     "p": "color",
+     "ini": 15.927,
+     "fim": 16.356
+    },
+    {
+     "p": "that",
+     "ini": 16.356,
+     "fim": 16.72
+    },
+    {
+     "p": "scatters",
+     "ini": 16.72,
+     "fim": 17.347
+    },
+    {
+     "p": "the",
+     "ini": 17.347,
+     "fim": 17.645
+    },
+    {
+     "p": "most,",
+     "ini": 17.645,
+     "fim": 18.008
+    },
+    {
+     "p": "in",
+     "ini": 18.008,
+     "fim": 18.239
+    },
+    {
+     "p": "every",
+     "ini": 18.239,
+     "fim": 18.668
+    },
+    {
+     "p": "direction.",
+     "ini": 18.668,
+     "fim": 19.362
+    }
+   ]
+  },
+  {
+   "texto": "That's why, wherever you look, blue reaches your eyes.",
+   "ini": 19.812,
+   "fim": 23.436,
+   "palavras": [
+    {
+     "p": "That's",
+     "ini": 19.812,
+     "fim": 20.236
+    },
+    {
+     "p": "why,",
+     "ini": 20.236,
+     "fim": 20.53
+    },
+    {
+     "p": "wherever",
+     "ini": 20.53,
+     "fim": 21.151
+    },
+    {
+     "p": "you",
+     "ini": 21.151,
+     "fim": 21.444
+    },
+    {
+     "p": "look,",
+     "ini": 21.444,
+     "fim": 21.804
+    },
+    {
+     "p": "blue",
+     "ini": 21.804,
+     "fim": 22.163
+    },
+    {
+     "p": "reaches",
+     "ini": 22.163,
+     "fim": 22.718
+    },
+    {
+     "p": "your",
+     "ini": 22.718,
+     "fim": 23.077
+    },
+    {
+     "p": "eyes.",
+     "ini": 23.077,
+     "fim": 23.436
+    }
+   ]
+  },
+  {
+   "texto": "At sunset, the light crosses so much more air to reach you.",
+   "ini": 23.886,
+   "fim": 28.198,
+   "palavras": [
+    {
+     "p": "At",
+     "ini": 23.886,
+     "fim": 24.122
+    },
+    {
+     "p": "sunset,",
+     "ini": 24.122,
+     "fim": 24.627
+    },
+    {
+     "p": "the",
+     "ini": 24.627,
+     "fim": 24.93
+    },
+    {
+     "p": "light",
+     "ini": 24.93,
+     "fim": 25.368
+    },
+    {
+     "p": "crosses",
+     "ini": 25.368,
+     "fim": 25.941
+    },
+    {
+     "p": "so",
+     "ini": 25.941,
+     "fim": 26.177
+    },
+    {
+     "p": "much",
+     "ini": 26.177,
+     "fim": 26.547
+    },
+    {
+     "p": "more",
+     "ini": 26.547,
+     "fim": 26.918
+    },
+    {
+     "p": "air",
+     "ini": 26.918,
+     "fim": 27.221
+    },
+    {
+     "p": "to",
+     "ini": 27.221,
+     "fim": 27.457
+    },
+    {
+     "p": "reach",
+     "ini": 27.457,
+     "fim": 27.895
+    },
+    {
+     "p": "you.",
+     "ini": 27.895,
+     "fim": 28.198
+    }
+   ]
+  },
+  {
+   "texto": "The blue gets lost on the way, and orange and red are left.",
+   "ini": 28.648,
+   "fim": 33.068,
+   "palavras": [
+    {
+     "p": "The",
+     "ini": 28.648,
+     "fim": 28.956
+    },
+    {
+     "p": "blue",
+     "ini": 28.956,
+     "fim": 29.333
+    },
+    {
+     "p": "gets",
+     "ini": 29.333,
+     "fim": 29.71
+    },
+    {
+     "p": "lost",
+     "ini": 29.71,
+     "fim": 30.087
+    },
+    {
+     "p": "on",
+     "ini": 30.087,
+     "fim": 30.327
+    },
+    {
+     "p": "the",
+     "ini": 30.327,
+     "fim": 30.635
+    },
+    {
+     "p": "way,",
+     "ini": 30.635,
+     "fim": 30.944
+    },
+    {
+     "p": "and",
+     "ini": 30.944,
+     "fim": 31.252
+    },
+    {
+     "p": "orange",
+     "ini": 31.252,
+     "fim": 31.766
+    },
+    {
+     "p": "and",
+     "ini": 31.766,
+     "fim": 32.074
+    },
+    {
+     "p": "red",
+     "ini": 32.074,
+     "fim": 32.383
+    },
+    {
+     "p": "are",
+     "ini": 32.383,
+     "fim": 32.691
+    },
+    {
+     "p": "left.",
+     "ini": 32.691,
+     "fim": 33.068
+    }
+   ]
+  },
+  {
+   "texto": "The same Sun, painting the sky in two different colors.",
+   "ini": 33.518,
+   "fim": 37.406,
+   "palavras": [
+    {
+     "p": "The",
+     "ini": 33.518,
+     "fim": 33.815
+    },
+    {
+     "p": "same",
+     "ini": 33.815,
+     "fim": 34.177
+    },
+    {
+     "p": "Sun,",
+     "ini": 34.177,
+     "fim": 34.474
+    },
+    {
+     "p": "painting",
+     "ini": 34.474,
+     "fim": 35.1
+    },
+    {
+     "p": "the",
+     "ini": 35.1,
+     "fim": 35.396
+    },
+    {
+     "p": "sky",
+     "ini": 35.396,
+     "fim": 35.693
+    },
+    {
+     "p": "in",
+     "ini": 35.693,
+     "fim": 35.923
+    },
+    {
+     "p": "two",
+     "ini": 35.923,
+     "fim": 36.22
+    },
+    {
+     "p": "different",
+     "ini": 36.22,
+     "fim": 36.912
+    },
+    {
+     "p": "colors.",
+     "ini": 36.912,
+     "fim": 37.406
+    }
+   ]
+  }
+ ]
+}

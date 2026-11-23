@@ -1,0 +1,25 @@
+{
+  "name": "scene-factory-free",
+  "private": true,
+  "version": "1.1.0",
+  "type": "module",
+  "description": "Scene Factory: the folder that turns Claude into an animation studio.",
+  "scripts": {
+    "preparar": "node ferramentas/preparar.mjs",
+    "conferir": "tsc --noEmit -p ."
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.530",
+    "@remotion/cli": "4.0.530",
+    "@remotion/google-fonts": "4.0.530",
+    "@remotion/renderer": "4.0.530",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.530"
+  },
+  "devDependencies": {
+    "@types/node": "22.19.1",
+    "@types/react": "19.2.2",
+    "typescript": "5.9.3"
+  }
+}
